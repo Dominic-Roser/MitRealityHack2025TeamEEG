@@ -340,10 +340,31 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3884845826612575918, guid: 746d9f256df0c4d77a9306a6b56f1bf8,
+        type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 5261b0d7ba80e42588853c3af30af135,
+        type: 2}
     - target: {fileID: 4426407147585209925, guid: 746d9f256df0c4d77a9306a6b56f1bf8,
         type: 3}
       propertyPath: m_Name
       value: Bassy
+      objectReference: {fileID: 0}
+    - target: {fileID: 5284431818722793207, guid: 746d9f256df0c4d77a9306a6b56f1bf8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5284431818722793207, guid: 746d9f256df0c4d77a9306a6b56f1bf8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.266
+      objectReference: {fileID: 0}
+    - target: {fileID: 5284431818722793207, guid: 746d9f256df0c4d77a9306a6b56f1bf8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.515
       objectReference: {fileID: 0}
     - target: {fileID: 8462432405683132271, guid: 746d9f256df0c4d77a9306a6b56f1bf8,
         type: 3}
