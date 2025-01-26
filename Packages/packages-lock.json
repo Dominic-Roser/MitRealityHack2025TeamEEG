@@ -57,6 +57,16 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.simonoliver.unityfigma": {
+      "version": "https://github.com/simonoliver/UnityFigmaBridge.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.1-preview.1",
+        "com.unity.textmeshpro": "2.0.1"
+      },
+      "hash": "dbd12bff29e8bc84e2682bb19495899711651455"
+    },
     "com.styly.hands": {
       "version": "0.0.1",
       "depth": 1,
