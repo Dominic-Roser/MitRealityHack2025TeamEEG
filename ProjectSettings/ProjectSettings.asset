@@ -935,7 +935,10 @@ PlayerSettings:
   windowsGamepadBackendHint: 0
   cloudProjectId: 6e14e227-b0be-41c2-81f6-1aa326cae80c
   framebufferDepthMemorylessMode: 0
-  qualitySettingsNames: []
+  qualitySettingsNames:
+  - Performant
+  - Balanced
+  - High Fidelity
   projectName: My project (2)
   organizationId: domdomroser
   cloudEnabled: 0
