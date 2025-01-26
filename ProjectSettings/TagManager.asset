@@ -6,11 +6,12 @@ TagManager:
   tags:
   - AUDIO
   - hand
+  - FINGER
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - TESTING
   - Water
   - UI
   - 
