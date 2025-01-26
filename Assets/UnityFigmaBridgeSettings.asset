@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119c1bd3601648f28a252a6030e067b6, type: 3}
   m_Name: UnityFigmaBridgeSettings
   m_EditorClassIdentifier: 
-  DocumentUrl: https://www.figma.com/design/E21iQdpTCqigWhJrgaITnn/notes.final?node-id=29-514&t=pNNqdpMfbX5zYUjd-1
+  DocumentUrl: https://www.figma.com/design/E21iQdpTCqigWhJrgaITnn/notes.final?node-id=29-514
   BuildPrototypeFlow: 1
   RunTimeAssetsScenePath: Assets/Our-Scenes/Dalton/testtttt.unity
   EnableAutoLayout: 0
